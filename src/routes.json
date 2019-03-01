@@ -1,46 +1,12 @@
 [
+ 
   {
     "path": "/",
-    "page": "./home",
-    "chunk": "main"
-  },
-  {
-    "path": "/error",
-    "page": "./error",
-    "chunk": "main"
-  },
-  {
-    "path": "/editor",
     "page": "./editor",
-    "chunk": "main"
-  },
-  {
-    "path": "/recommender/:id",
-    "page": "./recommender",
-    "chunk": "main"
-  },
-  {
-    "path": "/recommender/:id/:tab",
-    "page": "./recommender",
-    "chunk": "main"
-  },
-  {
-    "path": "/recommender",
-    "page": "./recommender",
     "chunk": "main"
   },
   {
     "path": "/privacy",
     "page": "./privacy"
-  },
-  {
-    "path": "/projects",
-    "page": "./projects",
-    "chunk": "main"
-  },
-  {
-    "path": "/designDecision/:id/project/:projectId",
-    "page": "./designDecision",
-    "chunk": "main"
   }
 ]

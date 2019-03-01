@@ -1,6 +1,0 @@
-{
-  "name": "StackedBarChart",
-  "version": "0.0.0",
-  "private": true,
-  "main": "./StackedBarChart.js"
-}
